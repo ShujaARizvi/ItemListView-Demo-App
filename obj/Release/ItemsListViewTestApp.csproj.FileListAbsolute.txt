@@ -1,0 +1,15 @@
+E:\Projects\ItemsListViewTestApp\bin\Release\ItemsListViewTestApp.exe.config
+E:\Projects\ItemsListViewTestApp\bin\Release\ItemsListViewTestApp.exe
+E:\Projects\ItemsListViewTestApp\bin\Release\ItemsListViewTestApp.pdb
+E:\Projects\ItemsListViewTestApp\bin\Release\ItemListView.dll
+E:\Projects\ItemsListViewTestApp\bin\Release\ItemListView.pdb
+E:\Projects\ItemsListViewTestApp\bin\Release\ItemListView.dll.config
+E:\Projects\ItemsListViewTestApp\obj\Release\ItemsListViewTestApp.csprojAssemblyReference.cache
+E:\Projects\ItemsListViewTestApp\obj\Release\ItemsListViewTestApp.Form1.resources
+E:\Projects\ItemsListViewTestApp\obj\Release\ItemsListViewTestApp.Properties.Resources.resources
+E:\Projects\ItemsListViewTestApp\obj\Release\ItemsListViewTestApp.UserControls.PersonControl.resources
+E:\Projects\ItemsListViewTestApp\obj\Release\ItemsListViewTestApp.UserControls.PersonControlHeader.resources
+E:\Projects\ItemsListViewTestApp\obj\Release\ItemsListViewTestApp.csproj.GenerateResource.cache
+E:\Projects\ItemsListViewTestApp\obj\Release\ItemsListViewTestApp.csproj.CopyComplete
+E:\Projects\ItemsListViewTestApp\obj\Release\ItemsListViewTestApp.exe
+E:\Projects\ItemsListViewTestApp\obj\Release\ItemsListViewTestApp.pdb
